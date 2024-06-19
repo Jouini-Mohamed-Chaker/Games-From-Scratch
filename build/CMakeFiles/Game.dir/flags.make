@@ -4,7 +4,7 @@
 # compile CXX with /usr/bin/c++
 CXX_DEFINES = 
 
-CXX_INCLUDES = -I"/home/chaker/Projects/C++ Games/includes/raylib-5.0_linux_amd64/include"
+CXX_INCLUDES = -I/home/chaker/Projects/C++/includes/raylib-5.0_linux_amd64/include -I/home/chaker/Projects/C++/includes/GameIncludes
 
 CXX_FLAGS = -std=gnu++11
 

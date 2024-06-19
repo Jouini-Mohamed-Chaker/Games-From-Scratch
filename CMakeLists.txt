@@ -12,6 +12,9 @@ set(RAYLIB_DIR "${CMAKE_SOURCE_DIR}/includes/raylib-5.0_linux_amd64")
 # Add Raylib headers
 include_directories(${RAYLIB_DIR}/include)
 
+# Add your GameIncludes directory to the include path
+include_directories(${CMAKE_SOURCE_DIR}/includes/GameIncludes)
+
 # Add Raylib static library
 add_library(raylib STATIC IMPORTED)
 set_target_properties(raylib PROPERTIES

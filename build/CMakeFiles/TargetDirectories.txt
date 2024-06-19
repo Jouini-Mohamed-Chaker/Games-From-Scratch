@@ -1,3 +1,3 @@
-/home/chaker/Projects/C++ Games/build/CMakeFiles/Game.dir
-/home/chaker/Projects/C++ Games/build/CMakeFiles/edit_cache.dir
-/home/chaker/Projects/C++ Games/build/CMakeFiles/rebuild_cache.dir
+/home/chaker/Projects/C++/build/CMakeFiles/Game.dir
+/home/chaker/Projects/C++/build/CMakeFiles/edit_cache.dir
+/home/chaker/Projects/C++/build/CMakeFiles/rebuild_cache.dir
